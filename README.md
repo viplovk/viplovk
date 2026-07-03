@@ -30,8 +30,8 @@ I am a 2nd-semester B.Tech Computer Science student at IEC College of Engineerin
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viplovk&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viplovk&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=viplovk&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=viplovk&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
