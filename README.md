@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-I am a 2nd-semester B.Tech Computer Science student at IEC College of Engineering and Technology. I blend technical logic with digital creativity, turning complex code into visual art.
+I am a 2nd-year B.Tech Computer Science student at IEC College of Engineering and Technology. I blend technical logic with digital creativity, turning complex code into visual art.
 
 - 🔭 Currently sharpening my skills in **Data Structures and Algorithms**.
 - 🎨 Passionate about **minimalist UI/UX** and digital design.
