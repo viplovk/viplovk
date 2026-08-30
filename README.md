@@ -12,7 +12,7 @@ I am a 2nd-year B.Tech Computer Science student at IEC College of Engineering an
 - 🔭 Currently sharpening my skills in **Data Structures and Algorithms**.
 - 🎨 Passionate about **minimalist UI/UX** and digital design.
 - 📬 Reach me at: [viplov7@icloud.com](mailto:viplov7@icloud.com)
-- 🌐 Visit my [Portfolio](https://viplovk.github.io/portfolio/)
+- 🌐 Visit my [Portfolio](https://portfolio.viplov.workers.dev/)
 
 ---
 
