@@ -8,21 +8,10 @@
 
 <br><br>
 
-<a href="https://portfolio.viplov.workers.dev/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=google-chrome&logoColor=88C0D0"/>
-</a>
-
-<a href="https://github.com/viplovk?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=88C0D0"/>
-</a>
-
-<a href="https://github.com/viplovk/viplovk/issues/1">
-<img src="https://img.shields.io/badge/GUESTBOOK-0D1117?style=for-the-badge&logo=github&logoColor=88C0D0"/>
-</a>
-
-<a href="mailto:viplov7@icloud.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=icloud&logoColor=88C0D0"/>
-</a>
+<a href="https://portfolio.viplov.workers.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=google-chrome&logoColor=88C0D0"/></a>
+<a href="https://github.com/viplovk?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=88C0D0"/></a>
+<a href="https://github.com/viplovk/viplovk/issues/1"><img src="https://img.shields.io/badge/GUESTBOOK-0D1117?style=for-the-badge&logo=github&logoColor=88C0D0"/></a>
+<a href="mailto:viplov7@icloud.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=icloud&logoColor=88C0D0"/></a>
 
 <br><br>
 
@@ -34,19 +23,13 @@
 
 <br><br><br>
 
-<!-- GITHUB STATS -->
-
 <img src="./profile/stats.svg" height="165" alt="GitHub Statistics"/>
 &nbsp;&nbsp;
 <img src="./profile/top-langs.svg" height="165" alt="Top Languages"/>
 
 <br><br><br>
 
-<!-- GUESTBOOK -->
-
-<a href="https://github.com/viplovk/viplovk/issues/1">
-<img src="https://img.shields.io/badge/✦%20SIGN%20THE%20GUESTBOOK-88C0D0?style=for-the-badge&labelColor=0D1117"/>
-</a>
+<a href="https://github.com/viplovk/viplovk/issues/1"><img src="https://img.shields.io/badge/✦%20SIGN%20THE%20GUESTBOOK-88C0D0?style=for-the-badge&labelColor=0D1117"/></a>
 
 <br><br>
 
@@ -59,9 +42,9 @@
 <th width="55%">MESSAGE</th>
 </tr>
 <tr>
-<td align="center">✦</td>
-<td align="center">—</td>
-<td><i>Be the first to leave a message.</i></td>
+<td align="center"><a href="https://github.com/viplovk"><img src="https://avatars.githubusercontent.com/u/82810725?v=4" width="32" height="32" alt="viplovk"><br><b>viplovk</b></a></td>
+<td align="center">03 Sep 2026</td>
+<td>hewlo boys</td>
 </tr>
 </table>
 
@@ -69,29 +52,13 @@
 
 <br><br>
 
-<!-- SOCIALS -->
-
-<a href="mailto:viplov7@icloud.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=flat-square&logo=icloud&logoColor=88C0D0"/>
-</a>
-
+<a href="mailto:viplov7@icloud.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=flat-square&logo=icloud&logoColor=88C0D0"/></a>
 &nbsp;
-
-<a href="https://portfolio.viplov.workers.dev/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&logo=google-chrome&logoColor=88C0D0"/>
-</a>
-
+<a href="https://portfolio.viplov.workers.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&logo=google-chrome&logoColor=88C0D0"/></a>
 &nbsp;
-
-<a href="https://twitter.com/vishuk30">
-<img src="https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=88C0D0"/>
-</a>
-
+<a href="https://twitter.com/vishuk30"><img src="https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=88C0D0"/></a>
 &nbsp;
-
-<a href="https://github.com/viplovk">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=flat-square&logo=github&logoColor=88C0D0"/>
-</a>
+<a href="https://github.com/viplovk"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=flat-square&logo=github&logoColor=88C0D0"/></a>
 
 <br><br>
 
