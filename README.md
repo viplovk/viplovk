@@ -11,10 +11,6 @@
 <a href="https://github.com/viplovk/viplovk/issues/1"><img src="https://img.shields.io/badge/GUESTBOOK-0D1117?style=for-the-badge&logo=github&logoColor=88C0D0"/></a>
 <a href="mailto:viplov7@icloud.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=icloud&logoColor=88C0D0"/></a>
 
-
-
-
-
 <br><br>
 
 <picture>
@@ -37,30 +33,38 @@
 
 <!-- Guestbook -->
 
-<table>
+<table width="100%">
 <tr>
-<th width="25%">NAME</th>
-<th width="20%">DATE</th>
-<th width="55%">MESSAGE</th>
+<th width="20%">Name</th>
+<th width="28%">Date</th>
+<th width="52%">Message</th>
 </tr>
+
 <tr>
-<td align="center"><a href="https://github.com/viplovk"><img src="https://avatars.githubusercontent.com/u/82810725?v=4" width="32" height="32" alt="viplovk"><br><b>viplovk</b></a></td>
-<td align="center">03 Sep 2026</td>
-<td>hewlo boys</td>
+<td align="center">
+<a href="https://github.com/viplovk">
+<img src="https://avatars.githubusercontent.com/u/82810725?v=4" width="32" height="32" alt="viplovk"><br>
+viplovk
+</a>
+</td>
+
+<td align="center">
+9/3/2026, 2:55:33 PM
+</td>
+
+<td align="left">
+hewlooooooooooo
+</td>
 </tr>
+
 </table>
 
 <!-- /Guestbook -->
 
 <br><br>
 
-
-
-
-
 <img src="https://komarev.com/ghpvc/?username=viplovk&style=flat-square&color=88C0D0" alt="Profile Views"/>
 
 <br><br>
-
 
 </div>
