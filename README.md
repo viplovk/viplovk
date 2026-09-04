@@ -4,14 +4,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=88C0D0&center=true&vCenter=true&width=700&lines=BUILDING+THINGS+I+FIND+INTERESTING.;CODE+%C3%97+DESIGN+%C3%97+CURIOSITY.;LEARN.+BUILD.+BREAK.+REPEAT."/>
 
-<br><br>
+<br>
 
 <a href="https://portfolio.viplov.workers.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=google-chrome&logoColor=88C0D0"/></a>
 <a href="https://github.com/viplovk?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=88C0D0"/></a>
 <a href="https://github.com/viplovk/viplovk/issues/1"><img src="https://img.shields.io/badge/GUESTBOOK-0D1117?style=for-the-badge&logo=github&logoColor=88C0D0"/></a>
 <a href="mailto:viplov7@icloud.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=icloud&logoColor=88C0D0"/></a>
 
-<br><br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viplovk/viplovk/output/github-contribution-grid-snake-dark.svg">
