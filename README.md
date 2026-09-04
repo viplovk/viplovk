@@ -36,7 +36,6 @@
 <table>
 <tr><th width="25%">NAME</th><th width="20%">DATE</th><th width="55%">MESSAGE</th></tr>
 <tr><td align="center"><a href="https://github.com/viplovk"><img src="https://avatars.githubusercontent.com/u/82810725?v=4" width="32" height="32" alt="viplovk"><br><b>viplovk</b></a></td><td align="center">04 Sep 2026</td><td>hewlo boys</td></tr>
-<tr><td align="center"><a href="https://github.com/viplovk"><img src="https://avatars.githubusercontent.com/u/82810725?v=4" width="32" height="32" alt="viplovk"><br><b>viplovk</b></a></td><td align="center">03 Sep 2026</td><td>hi8</td></tr>
 <tr><td align="center"><a href="https://github.com/viplovk"><img src="https://avatars.githubusercontent.com/u/82810725?v=4" width="32" height="32" alt="viplovk"><br><b>viplovk</b></a></td><td align="center">03 Sep 2026</td><td>hewlo boys</td></tr>
 </table>
 
